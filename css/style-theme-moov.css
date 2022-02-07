@@ -1,0 +1,37 @@
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.carousel-indicators .active,
+.option-box .check-color
+{
+    background-color: #d0b11b;
+}
+
+.navbar > .container .navbar-brand span,
+.about h1 span,
+.about h3 span,
+.testimonials span,
+.footer h3,
+.footer .copyright span,
+.features .feat span.glyphicon,
+.feature i
+{
+    color:#d0b11b;
+}
+
+.dropdown-menu
+{
+    border-top: 2px solid #d0b11b;   
+}
+
+
+
+
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active,
+.about-info img
+{
+    border: 3px solid #d0b11b;  
+}

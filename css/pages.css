@@ -1,0 +1,148 @@
+/* Start Page About */
+
+/* Start About Us */
+.about-us
+{
+    padding: 60px 0
+}
+
+.about-us h1
+{
+    font-size: 70px;
+    margin-bottom:40px
+}
+
+.about-us p
+{
+    margin-bottom: 40px;
+    color: #444;
+    
+}
+
+.about-us .about img
+{
+    box-shadow: 10px 10px 10PX #CCC,
+        -10PX -10PX 10PX #CCC;
+    border-radius: 20px
+}
+
+/* End About Us */
+
+
+/* Start Section Feture */
+
+.feature
+{
+    padding-bottom: 60px;
+    overflow:hidden
+    
+}
+
+.feature h3
+{
+    color:#444;
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-bottom:15px
+}
+
+.feature p
+{
+    line-height: 1.5;
+    font-size: 16px;
+    color: #777;
+    margin-top:15px;
+    margin-bottom:15px
+}
+
+/* End Section Feature */
+
+/* Start Section About Info */
+
+.about-info
+{
+    padding-bottom:30px;
+    background-color: #EEE;
+}
+
+.about-info img
+{
+    box-shadow: 10px 10px 10px #999;
+    
+}
+
+.info h2
+{
+    color: #555;
+    font-weight: bold;
+    
+}
+
+.info p
+{
+    
+}
+
+.info .btn
+{
+    background-color: #111;
+    color: #AAA;
+    border: 0;
+    display: inline-block
+}
+
+/* End Section About Info */
+
+/* End Page About */
+
+/* Start Page Portifolio */
+
+.prtifolio
+{
+    margin-top: 60px;
+    margin-bottom: 30px
+}
+
+.prtifolio .part
+{
+    margin-bottom: 80px
+}
+
+.prtifolio .part h1
+{
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 30px
+}
+
+.prtifolio .part img
+{
+   box-shadow: 5px 5px 15px #E41B17
+
+}
+
+.photos
+{
+    margin-bottom: 30px;
+    overflow: hidden;
+   
+}
+
+.photos .photo1 img
+{
+     float: left
+}
+
+    .photos .photo1 h3
+{
+    color: #888;
+    font-weight: bold
+}
+
+    .photos .photo1 p
+{
+    color:#666;
+    line-height: 1.5;
+    display: none
+}
+/* End Page Portifolio */
